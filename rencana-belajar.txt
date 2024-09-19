@@ -1,6 +1,9 @@
 RENCANA BELAJAR
 
 -HTML
+ *syntax
+ *table
 -CSS
+ *manipulation style
 -JAVASCRIPT
 -GIT & GITHUB
