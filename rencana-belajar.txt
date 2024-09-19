@@ -6,4 +6,5 @@ RENCANA BELAJAR
 -CSS
  *manipulation style
 -JAVASCRIPT
+-struktur data dasar
 -GIT & GITHUB
