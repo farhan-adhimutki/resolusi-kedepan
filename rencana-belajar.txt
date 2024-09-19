@@ -6,5 +6,10 @@ RENCANA BELAJAR
 -CSS
  *manipulation style
 -JAVASCRIPT
+ *angular
+ *react
 -struktur data dasar
 -GIT & GITHUB
+PHP DASAR
+ *LARAVEL
+ *BOOTSTRAP
