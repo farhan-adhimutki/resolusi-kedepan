@@ -8,6 +8,7 @@ RENCANA BELAJAR
 -JAVASCRIPT
  *react
  *vue
+-struktur data dasar
 -GIT & GITHUB
 PHP DASAR
- *TAILWIND
+ *BOOTSTRAP
