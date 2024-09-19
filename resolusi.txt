@@ -4,7 +4,8 @@ hash = penanda unik pada commit
 checkout = berpindah kesebuah commit
 branch = cabang bebas dari commit
 merge = menggabungkan branch
-remote = sumber dari repository
+remote = sumber dari repository ini contoh menambahkan
 clone = mengambil repo ari remote
 push = mengirimkan commit ke repo
 pull = menarik commit dari repo
+ini contoh menambahkan
