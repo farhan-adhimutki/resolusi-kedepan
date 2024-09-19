@@ -1,0 +1,10 @@
+repo = folder projek
+commit = rekaman/ snapshoot repository
+hash = penanda unik pada commit
+checkout = berpindah kesebuah commit
+branch = cabang bebas dari commit
+merge = menggabungkan branch
+remote = sumber dari repository
+clone = mengambil repo ari remote
+push = mengirimkan commit ke repo
+pull = menarik commit dari repo
