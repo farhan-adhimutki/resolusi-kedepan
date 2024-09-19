@@ -6,5 +6,8 @@ RENCANA BELAJAR
 -CSS
  *manipulation style
 -JAVASCRIPT
+ *vue
+ *angular
 -struktur data dasar
 -GIT & GITHUB
+PHP DASAR
