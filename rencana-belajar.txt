@@ -8,8 +8,8 @@ RENCANA BELAJAR
 -JAVASCRIPT
  *angular
  *react
+ *vue
 -struktur data dasar
 -GIT & GITHUB
 PHP DASAR
- *LARAVEL
  *BOOTSTRAP
